@@ -127,7 +127,5 @@ Feel free to use, modify, and distribute under the terms of the license.
 
 ---
 
-> ⚡ **Pro Tip**: You can deploy this as a web API on Render, Railway, or Hugging Face Spaces for personal use or integration with bots.
 
-> 💬 “Don't just watch videos. Talk to them.”
 
